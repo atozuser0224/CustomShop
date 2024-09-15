@@ -1,0 +1,13 @@
+name: CustomShop
+version: '1.0-SNAPSHOT'
+main: org.gang.customShop.CustomShop
+api-version: '1.20'
+libraries:
+  - io.github.monun:invfx-core:3.3.2
+  - com.github.shynixn.mccoroutine:mccoroutine-bukkit-api:2.19.0
+  - com.github.shynixn.mccoroutine:mccoroutine-bukkit-core:2.19.0
+  - org.jetbrains.kotlinx:kotlinx-coroutines-core:1.6.1
+  - org.jetbrains.kotlinx:kotlinx-serialization-json:1.4.1
+  - org.jetbrains.kotlinx:kotlinx-serialization-protobuf:1.4.1
+softDepend: [ Vault ]
+

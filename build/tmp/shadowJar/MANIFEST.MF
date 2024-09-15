@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Class-Path: kotlin-stdlib-jdk7-2.0.20.jar kotlin-stdlib-2.0.20.jar kotli
+ n-stdlib-jdk8-2.0.20.jar annotations-13.0.jar
+
